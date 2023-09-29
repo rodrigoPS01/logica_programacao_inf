@@ -1,0 +1,1 @@
+# o not utiliza-se para checar se algo não pertence a condição por exemplo se um aluno de 200 faltou a aula
